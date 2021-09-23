@@ -1,5 +1,5 @@
 
-<img src="./img/astar.jpg" width="100px">
+<img src="./img/astar.jpg" width="250px">
 
 # A Test with A* (A-Star)
 I wanted to see if I can build this algorithm. Can I? See for your self! :)
